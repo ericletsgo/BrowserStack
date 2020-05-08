@@ -1,4 +1,4 @@
-var seleniumRunner = require('../');
+var seleniumRunner = require('..');
 
 // tests to run
 var tests = [
