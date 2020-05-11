@@ -10,9 +10,6 @@ function browse(url, desired, remoteCfg, cb) {
 
     var browser = wd.remote(remoteCfg);
 
-    // browser.on('status', logStatus);
-    // browser.on('command', logCommand);
-
     async.series([
         browser.init.bind(browser, desired),
         wait4(100),

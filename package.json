@@ -4,8 +4,7 @@
   "description": "Run a [{url+JSTest}, ..] combo in selenium grid, in parallel, in multiple browsers",
   "main": "index.js",
   "repository": {
-    "type": "git",
-    "url": "git@github.com:vvo/selenium-runner.git"
+    "type": "git"
   },
   "dependencies": {
     "async": "0.2.x",
@@ -13,14 +12,12 @@
     "wd": "^1.12.1"
   },
   "scripts": {
-    "test": "node example"
+    "test": "node test"
   },
   "keywords": [
     "selenium",
     "runner",
     "parallel",
     "wd"
-  ],
-  "author": "Vincent Voyer <vincent.voyer@gmail.com>",
-  "license": "MIT"
+  ]
 }
