@@ -6,20 +6,20 @@
   "browsers": [{
       "browserName": "internet explorer",
       "version": "10.0",
-      "browserstack.user": "",
-      "browserstack.key": "",
+      "browserstack.user": "ericwang10",
+      "browserstack.key": "u8HNzQhM4TRHu3JpYLGW",
       "name": "Bstack-[NodeJS] WD Parallel Test IE"
   }, {
       "browserName": "chrome",
       "version": "22.0",
-      "browserstack.user": "",
-      "browserstack.key": "",
+      "browserstack.user": "ericwang10",
+      "browserstack.key": "u8HNzQhM4TRHu3JpYLGW",
       "name": "Bstack-[NodeJS] WD Parallel Test Chrome"
   }, {
       "browserName": "opera",
       "version": "12.15",
-      "browserstack.user": "",
-      "browserstack.key": "",
+      "browserstack.user": "ericwang10",
+      "browserstack.key": "u8HNzQhM4TRHu3JpYLGW",
       "name": "Bstack-[NodeJS] WD Parallel Test Opera"
   }, {
       "browserName": "firefox",
@@ -30,8 +30,8 @@
   }, {
       "browserName": "safari",
       "version": "12.1",
-      "browserstack.user": "",
-      "browserstack.key": "",
+      "browserstack.user": "ericwang10",
+      "browserstack.key": "u8HNzQhM4TRHu3JpYLGW",
       "name": "Bstack-[NodeJS] WD Parallel Test Safari"
   }],
   "concurrency": 5
