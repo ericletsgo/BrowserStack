@@ -6,8 +6,8 @@
   "browsers": [{
       "browserName": "internet explorer",
       "version": "10.0",
-      "browserstack.user": "ericwang10",
-      "browserstack.key": "u8HNzQhM4TRHu3JpYLGW",
+      "browserstack.user": "",
+      "browserstack.key": "",
       "name": "Bstack-[NodeJS] WD Parallel Test IE"
   }, {
       "browserName": "chrome",
