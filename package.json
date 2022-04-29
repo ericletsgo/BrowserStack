@@ -7,7 +7,7 @@
     "type": "git"
   },
   "dependencies": {
-    "async": "0.2.x",
+    "async": "2.6.x",
     "selenium-grid-status": "0.0.x",
     "wd": "^1.12.1"
   },
